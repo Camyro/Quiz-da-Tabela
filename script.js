@@ -1,3 +1,3 @@
 setTimeout(function() {
-  window.location.href = "//quizizz.com/join?gc=81743191";
+  window.location.href = "//quizizz.com/join?gc=95885859";
 }, 1000);
